@@ -1,0 +1,10 @@
+C:\Users\wendymaite\source\repos\MaiteTp2\bin\Debug\MaiteTp2.exe.config
+C:\Users\wendymaite\source\repos\MaiteTp2\bin\Debug\MaiteTp2.exe
+C:\Users\wendymaite\source\repos\MaiteTp2\bin\Debug\MaiteTp2.pdb
+C:\Users\wendymaite\source\repos\MaiteTp2\obj\Debug\MaiteTp2.csprojAssemblyReference.cache
+C:\Users\wendymaite\source\repos\MaiteTp2\obj\Debug\MaiteTp2.Properties.Resources.resources
+C:\Users\wendymaite\source\repos\MaiteTp2\obj\Debug\MaiteTp2.csproj.GenerateResource.cache
+C:\Users\wendymaite\source\repos\MaiteTp2\obj\Debug\MaiteTp2.csproj.CoreCompileInputs.cache
+C:\Users\wendymaite\source\repos\MaiteTp2\obj\Debug\MaiteTp2.exe
+C:\Users\wendymaite\source\repos\MaiteTp2\obj\Debug\MaiteTp2.pdb
+C:\Users\wendymaite\source\repos\MaiteTp2\obj\Debug\MaiteTp2.Form1.resources

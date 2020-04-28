@@ -1,0 +1,12 @@
+C:\Users\wendymaite\source\repos\MaiteTp2\Dominio\bin\Debug\Dominio.dll
+C:\Users\wendymaite\source\repos\MaiteTp2\Dominio\bin\Debug\Dominio.pdb
+C:\Users\wendymaite\source\repos\MaiteTp2\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\wendymaite\source\repos\MaiteTp2\Dominio\obj\Debug\Dominio.dll
+C:\Users\wendymaite\source\repos\MaiteTp2\Dominio\obj\Debug\Dominio.pdb
+C:\Users\wendymaite\source\repos\MaiteTp2\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\wendymaite\source\repos\Tp2Repolledo\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\wendymaite\source\repos\Tp2Repolledo\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\wendymaite\source\repos\Tp2Repolledo\Dominio\obj\Debug\Dominio.dll
+C:\Users\wendymaite\source\repos\Tp2Repolledo\Dominio\obj\Debug\Dominio.pdb
+C:\Users\wendymaite\source\repos\Tp2Repolledo\Dominio\bin\Debug\Dominio.dll
+C:\Users\wendymaite\source\repos\Tp2Repolledo\Dominio\bin\Debug\Dominio.pdb
