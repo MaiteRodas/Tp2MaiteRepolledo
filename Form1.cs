@@ -74,6 +74,8 @@ namespace Negocio
         {
             Alta__Articulo alta = new Alta__Articulo();
             alta.ShowDialog();// define la pantalla la que estas usando ahora
+            MessageBox.Show("Agregado Correctamente");
+
             cargarGrilla();
         }
 
@@ -84,6 +86,8 @@ namespace Negocio
             modificar = (Articulo)grillaArticulos.CurrentRow.DataBoundItem; 
             Alta__Articulo formularioModificar = new Alta__Articulo(modificar);
             formularioModificar.ShowDialog();
+            MessageBox.Show("Modificado correctamente");
+
             cargarGrilla();
         }
 
@@ -94,10 +98,17 @@ namespace Negocio
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
+            
             Articulo eliminar = (Articulo)grillaArticulos.CurrentRow.DataBoundItem;
             ArticuloNegocio negocio = new ArticuloNegocio();
-            negocio.Eliminar(eliminar);
-            cargarGrilla();
+           if (MessageBox.Show("¿Estas seguro de que queres eliminar el artículo? ", "ELIMINAR", MessageBoxButtons.YesNo)== DialogResult.Yes)
+            {
+                negocio.Eliminar(eliminar);
+                cargarGrilla();
+                MessageBox.Show("Eliminado correctamente");
+
+            }
+
         }
 
         private void txtBusqueda_KeyPress(object sender, KeyPressEventArgs e)
